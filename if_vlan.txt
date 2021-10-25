@@ -1,0 +1,6 @@
+nativeVLAN = 1
+DataVLAN = 100
+if nativeVLAN == DataVLAN:
+    print("La VLAN nativa y la VLAN de datos son iguales.")
+else:
+    print("La VLAN nativa y la VLAN de datos son diferentes.")
