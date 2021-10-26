@@ -1,0 +1,5 @@
+firstName = input("¿Cuál es tu primer nombre? ")
+LastName = input("¿Cuál es tu apellido? ")
+city = input("¿Cual es tu localizacion? ")
+age = input("¿Cual es tu edad? ")
+print("Hola " + firstName     +   LastName   + " Su ubicacion es " + city + " Y su edad es " + age + "!")
